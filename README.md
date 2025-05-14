@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é José Douglas!
 
-Tenho 21 anos e estudo desde os 14 sobre programação, atualmente estou finalizando o curso tecnólogo de Análise e Desenvolvimento de Sistemas na UNIFIP, sou apaixonado por programação, sou comunicativo e me adapto rapidamente.
+Tenho 21 anos e estudo desde os 14 anos sobre programação, atualmente estou finalizando o curso tecnólogo de Análise e Desenvolvimento de Sistemas na UNIFIP, sou apaixonado por programação, sou comunicativo e me adapto rapidamente.
 
 🔭 Cristão e programador fullstack.
 
