@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasFariasRodigues&show_icons=true&theme=radical)
 
 
-##Tecnologias 
+## Tecnologias 
 
 <div style = "display : inline_block"> <br>
     <img align ="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -31,7 +31,7 @@
  <br>
 <br>
 
-##Redes Sociais
+## Redes Sociais
 
 <div >
 <a href ="https://www.instagram.com/jose_fariasrodrigues"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href ="https://www.instagram.com/jose_fariasrodrigues/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
