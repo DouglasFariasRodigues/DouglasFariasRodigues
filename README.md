@@ -2,7 +2,7 @@
 
 
 
-###Olá! Meu nome é José Douglas Farias Rodrigues, tenho 22 anos e sou graduado em Análise e Desenvolvimento de Sistemas pela Unifip. Atualmente, estou aprofundando meus conhecimentos na Gran Faculdade, onde curso pós-graduações em **Engenharia e Arquitetura de Sistemas** e em **Desenvolvimento Full Stack e Cloud Computing**, buscando unir uma base sólida de design de software com as tecnologias mais modernas do mercado.
+### Olá! Meu nome é José Douglas Farias Rodrigues, tenho 22 anos e sou graduado em Análise e Desenvolvimento de Sistemas pela Unifip. Atualmente, estou aprofundando meus conhecimentos na Gran Faculdade, onde curso pós-graduações em **Engenharia e Arquitetura de Sistemas** e em **Desenvolvimento Full Stack e Cloud Computing**, buscando unir uma base sólida de design de software com as tecnologias mais modernas do mercado.
 
 <div >
 <a href="https://github.com/DouglasFariasRodigues">
