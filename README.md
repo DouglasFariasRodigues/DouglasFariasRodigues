@@ -37,7 +37,7 @@
 ## Redes Sociais
 
 <div >
-<a href ="https://www.instagram.com/jose_fariasrodrigues"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/jos%C3%A9-douglas-farias-rodrigues-164bb1269/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href ="https://www.instagram.com/jose_fariasrodrigues"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="blank"></a> <a href="https://www.linkedin.com/in/jos%C3%A9-douglas-farias-rodrigues-164bb1269/" target="blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
 
