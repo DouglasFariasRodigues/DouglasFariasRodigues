@@ -4,7 +4,7 @@
 
 ###Olá! Meu nome é José Douglas Farias Rodrigues, tenho 22 anos e sou graduado em Análise e Desenvolvimento de Sistemas pela Unifip. Atualmente, estou aprofundando meus conhecimentos na Gran Faculdade, onde curso pós-graduações em **Engenharia e Arquitetura de Sistemas** e em **Desenvolvimento Full Stack e Cloud Computing**, buscando unir uma base sólida de design de software com as tecnologias mais modernas do mercado.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasFariasRodigues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasFariasRodigues)](https://github.com/DouglasFariasRodigues/github-readme-stats)
 
 
 ## Tecnologias 
