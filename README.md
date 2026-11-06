@@ -1,44 +1,24 @@
-## José Douglas 💻
+# José Douglas Farias Rodrigues
 
+Desenvolvedor com foco em aplicações full stack, usando Python e Django no backend e React/JavaScript no frontend. Tenho interesse em arquitetura de software e desenvolvimento de soluções web.
 
+## Competências
 
-### Olá! Meu nome é José Douglas Farias Rodrigues, tenho 23 anos e sou graduado em Análise e Desenvolvimento de Sistemas pela Unifip e  Pós-graduado em **Engenharia e Arquitetura de Sistemas** e em **Desenvolvimento Full Stack e Cloud Computing** Pela Gran Faculdade, estou buscando unir uma base sólida de design de software com as tecnologias mais modernas do mercado.
+- **Backend:** Python, Django e Django REST Framework
+- **Frontend:** React, JavaScript, TypeScript, HTML e CSS
+- **Banco de dados:** PostgreSQL
 
-<div >
-<a href="https://github.com/DouglasFariasRodigues">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DouglasFariasRodigues&show_icons=true&theme=radical&count_private=true" />
-</a>
-</div>
+## Projetos selecionados
 
-## Tecnologias 
+- [Gestor de Escalas e Cultos](https://github.com/DouglasFariasRodigues/Gestor_de_Escalas_e_Cultos-G.E.C) — aplicação full stack para organizar cultos e escalas mensais, com validação de conflitos e exportação em PDF.
+- [Lojinha dos Sonhos](https://github.com/DouglasFariasRodigues/Projeto_loja_virtual_pos-graduacao) — interface de loja virtual com carrinho, controle de quantidades e cálculo dinâmico de valores.
 
-<div style = "display : inline_block"> <br>
-    <img align ="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align ="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align ="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whitee">
-    <img align ="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align ="center"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align ="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align ="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align ="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align ="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img align ="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img align ="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    <img align ="center" src="    https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align ="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align ="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img align ="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-    <img align ="center" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-    <img align ="center" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
- </div>
- <br>
-<br>
+## Formação
 
-## Redes Sociais
+- Pós-graduação em Engenharia e Arquitetura de Sistemas — Gran Faculdade
+- Pós-graduação em Desenvolvimento Full Stack e Cloud Computing — Gran Faculdade
+- Análise e Desenvolvimento de Sistemas — UNIFIP
 
-<div>
-  <a href="https://douglasfariasrodigues.github.io/Linktree/" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
-  </a>
-</div>
+## Contato
 
+[Site e redes profissionais](https://douglasfariasrodigues.github.io/Linktree/)
