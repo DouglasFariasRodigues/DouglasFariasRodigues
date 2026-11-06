@@ -1,3 +1,6 @@
+[![Português](https://img.shields.io/badge/🇧🇷_Português-pt--BR-009739?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/🇺🇸_English-en-1f6feb?style=for-the-badge)](README.en.md)
+
 # José Douglas Farias Rodrigues
 
 Desenvolvedor com foco em aplicações full stack, usando Python e Django no backend e React/JavaScript no frontend. Tenho interesse em arquitetura de software e desenvolvimento de soluções web.
