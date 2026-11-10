@@ -24,4 +24,4 @@ Desenvolvedor com foco em aplicações full stack, usando Python e Django no bac
 
 ## Contato
 
-[Site e redes profissionais](https://douglasfariasrodigues.github.io/Linktree/)
+[Site e redes profissionais](https://josedouglas.netlify.app)

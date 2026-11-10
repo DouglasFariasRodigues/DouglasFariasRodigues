@@ -24,4 +24,4 @@ Full-stack developer focused on applications built with Python and Django on the
 
 ## Contact
 
-[Website and professional networks](https://douglasfariasrodigues.github.io/Linktree/)
+[Website and professional networks](https://josedouglas.netlify.app)
